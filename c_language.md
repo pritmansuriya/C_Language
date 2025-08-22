@@ -4,6 +4,8 @@
    1970s by Dennis Ritchie at Bell Labs.It was primarily designed for implementi
    ng system software,notably the unix operating system.
 
+   
+
 
 🔹 Key Features
 
@@ -15,10 +17,12 @@
 
    Libraries with Rich Functions
 
+   
+
 
 🔹 Example Code 
 
-   #include <stdio.h>
+    #include <stdio.h>
 
     int main() {
     printf("Hello, World!\n");
